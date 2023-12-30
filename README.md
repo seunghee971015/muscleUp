@@ -14,7 +14,7 @@
 ## 기술 스택
 `Front-End` 
 
-<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
 
 `Back-end`
